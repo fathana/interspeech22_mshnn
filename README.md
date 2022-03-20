@@ -1,8 +1,8 @@
 # interspeech22_mshnn
 
-Additional supporting figures for the "Novel Neural Speaker Embedding Extractors for Text-Independent Speaker Verification" paper submitted to Interspeech 2022, for automatic speaker verification.
+Additional supporting figures for the "Novel Neural Speaker Embedding Extractors for Text-Independent Speaker Verification" paper submitted to Interspeech 2022.
 
-Visualization of our proposed model "Hybrid Neural Network" (HNN) architecture: 
+Visualization of the proposed "Hybrid Neural Network" (HNN) architecture: 
 
 ![](/hnn.png)
 
